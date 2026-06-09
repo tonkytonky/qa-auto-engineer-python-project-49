@@ -10,3 +10,8 @@
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=tonkytonky_qa-auto-engineer-python-project-49&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=tonkytonky_qa-auto-engineer-python-project-49)  
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=tonkytonky_qa-auto-engineer-python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=tonkytonky_qa-auto-engineer-python-project-49)  
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=tonkytonky_qa-auto-engineer-python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=tonkytonky_qa-auto-engineer-python-project-49)  
+
+## Игра brain-even
+
+Установка и запуск:
+[![Установка и запуск brain-even](https://asciinema.org/a/7iK5MgixsMjQoBcx.svg)](https://asciinema.org/a/7iK5MgixsMjQoBcx)
