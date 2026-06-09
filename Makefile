@@ -9,3 +9,5 @@ build:
 
 package-install:
 	uv tool install dist/*.whl
+
+package-reinstall: build package-install
