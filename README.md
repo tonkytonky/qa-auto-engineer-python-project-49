@@ -15,3 +15,8 @@
 
 Установка и запуск:
 [![Установка и запуск brain-even](https://asciinema.org/a/7iK5MgixsMjQoBcx.svg)](https://asciinema.org/a/7iK5MgixsMjQoBcx)
+
+## Игра brain-calc
+
+Установка и запуск:
+[![Установка и запуск brain-calc](https://asciinema.org/a/2DxrPwkaAqhKAknP.svg)](https://asciinema.org/a/2DxrPwkaAqhKAknP)
