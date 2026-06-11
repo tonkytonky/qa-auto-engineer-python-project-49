@@ -22,4 +22,7 @@ brain-calc:
 brain-gcd:
 	uv run brain-gcd
 
-.PHONY: install build lint package-install brain-games test
+brain-progression:
+	uv run brain-progression
+
+.PHONY: install build lint package-install brain-games brain-even brain-calc brain-gcd brain-progression

@@ -25,3 +25,8 @@
 
 Установка и запуск:
 [![Установка и запуск brain-gcd](https://asciinema.org/a/IBhFXKpKcuUcHJBi.svg)](https://asciinema.org/a/IBhFXKpKcuUcHJBi)
+
+## Игра brain-progression
+
+Установка и запуск:
+[![Установка и запуск brain-progression](https://asciinema.org/a/qYFUYX9pz7EpmJnj.svg)](https://asciinema.org/a/qYFUYX9pz7EpmJnj)
