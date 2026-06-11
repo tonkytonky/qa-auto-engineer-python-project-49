@@ -20,3 +20,8 @@
 
 Установка и запуск:
 [![Установка и запуск brain-calc](https://asciinema.org/a/2DxrPwkaAqhKAknP.svg)](https://asciinema.org/a/2DxrPwkaAqhKAknP)
+
+## Игра brain-gcd
+
+Установка и запуск:
+[![Установка и запуск brain-gcd](https://asciinema.org/a/IBhFXKpKcuUcHJBi.svg)](https://asciinema.org/a/IBhFXKpKcuUcHJBi)
