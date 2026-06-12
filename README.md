@@ -11,27 +11,85 @@
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=tonkytonky_qa-auto-engineer-python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=tonkytonky_qa-auto-engineer-python-project-49)  
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=tonkytonky_qa-auto-engineer-python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=tonkytonky_qa-auto-engineer-python-project-49)  
 
+# Описание проекта 
+
+Проект "Игры разума" содержит несколько игр для умстенной тренировки.
+
+# Минимальные требования
+
+Для запуска проекта необходимы:
+- `uv` — менеджер проектов для Python;
+- утилита `make`.
+
+# Инструкции по установке и запуску
+
+Для начала необходимо загрузить проект и установить зависимости:
+
+```bash
+git clone https://github.com/tonkytonky/qa-auto-engineer-python-project-49.git
+cd qa-auto-engineer-python-project-49
+make install
+```
+
+Затем установить проект локально:
+
+```bash
+make package-install
+```
+
+После этого все игры будут джоступны для запуска из консоли.
+
 ## Игра brain-even
 
-Установка и запуск:
-[![Установка и запуск brain-even](https://asciinema.org/a/7iK5MgixsMjQoBcx.svg)](https://asciinema.org/a/7iK5MgixsMjQoBcx)
+Запускается командой:
+
+```bash
+brain-even
+```
+
+Пример запуска:
+[![Пример запуска brain-even](https://asciinema.org/a/7iK5MgixsMjQoBcx.svg)](https://asciinema.org/a/7iK5MgixsMjQoBcx)
 
 ## Игра brain-calc
 
-Установка и запуск:
-[![Установка и запуск brain-calc](https://asciinema.org/a/2DxrPwkaAqhKAknP.svg)](https://asciinema.org/a/2DxrPwkaAqhKAknP)
+Запускается командой:
+
+```bash
+brain-calc
+```
+
+Пример запуска:
+[![Пример запуска brain-calc](https://asciinema.org/a/2DxrPwkaAqhKAknP.svg)](https://asciinema.org/a/2DxrPwkaAqhKAknP)
 
 ## Игра brain-gcd
 
-Установка и запуск:
-[![Установка и запуск brain-gcd](https://asciinema.org/a/IBhFXKpKcuUcHJBi.svg)](https://asciinema.org/a/IBhFXKpKcuUcHJBi)
+Запускается командой:
+
+```bash
+brain-gcd
+```
+
+Пример запуска:
+[![Пример запуска brain-gcd](https://asciinema.org/a/IBhFXKpKcuUcHJBi.svg)](https://asciinema.org/a/IBhFXKpKcuUcHJBi)
 
 ## Игра brain-progression
 
-Установка и запуск:
-[![Установка и запуск brain-progression](https://asciinema.org/a/qYFUYX9pz7EpmJnj.svg)](https://asciinema.org/a/qYFUYX9pz7EpmJnj)
+Запускается командой:
+
+```bash
+brain-progression
+```
+
+Пример запуска:
+[![Пример запуска brain-progression](https://asciinema.org/a/qYFUYX9pz7EpmJnj.svg)](https://asciinema.org/a/qYFUYX9pz7EpmJnj)
 
 ## Игра brain-prime
 
-Установка и запуск:
-[![Установка и запуск brain-prime](https://asciinema.org/a/hFFgsEwk2nuTcPdi.svg)](https://asciinema.org/a/hFFgsEwk2nuTcPdi)
+Запусывается командой:
+
+```bash
+brain-prime
+```
+
+Пример запуска:
+[![Пример запуска brain-prime](https://asciinema.org/a/hFFgsEwk2nuTcPdi.svg)](https://asciinema.org/a/hFFgsEwk2nuTcPdi)
