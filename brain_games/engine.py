@@ -30,6 +30,7 @@ def run_game(name, game_greeting, game):
                 f"'{answer}' is wrong answer ;(.",
                 f"Correct answer was '{correct_answer}'.",
             )
+            print(f"Let's try again, {name}!")
             return
 
     print(f"Congratulations, {name}!")
@@ -50,5 +51,8 @@ def engine(game_choice):
         case c.BRAIN_PRIME_NAME:
             run_game(name, BRAIN_PRIME_PROMPT, brain_prime_game)
         case _:
-            print("Select a game from the list: "
-                  "brain_even, brain_calc, brain_gcd")
+            print(
+                "Select a game from the list: "
+                "brain_even, brain_calc, brain_gcd, "
+                "brain_progression, brain_prime"
+            )
