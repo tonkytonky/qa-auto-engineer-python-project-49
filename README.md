@@ -30,3 +30,8 @@
 
 Установка и запуск:
 [![Установка и запуск brain-progression](https://asciinema.org/a/qYFUYX9pz7EpmJnj.svg)](https://asciinema.org/a/qYFUYX9pz7EpmJnj)
+
+## Игра brain-prime
+
+Установка и запуск:
+[![Установка и запуск brain-prime](https://asciinema.org/a/hFFgsEwk2nuTcPdi.svg)](https://asciinema.org/a/hFFgsEwk2nuTcPdi)
