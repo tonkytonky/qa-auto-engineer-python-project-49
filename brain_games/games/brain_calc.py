@@ -1,9 +1,9 @@
 import operator
 import random
 
-from brain_games.constants import MAX_NUMBER, MIN_NUMBER
-
 BRAIN_CALC_PROMPT = "What is the result of the expression?"
+MIN_NUMBER = 1
+MAX_NUMBER = 100
 
 
 def brain_calc_game():
@@ -18,6 +18,6 @@ def brain_calc_game():
     op_symbol = random.choice(list(operations.keys()))
 
     question = f"{a} {op_symbol} {b}"
-    correct_answer = str(operations[op_symbol](a, b))
+    correct_answer = operations[op_symbol](a, b)
 
-    return question, correct_answer
+    return question, str(correct_answer)

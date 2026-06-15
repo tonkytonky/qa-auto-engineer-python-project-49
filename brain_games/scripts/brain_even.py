@@ -1,9 +1,9 @@
-from brain_games.constants import BRAIN_EVEN_NAME
-from brain_games.engine import engine
+from brain_games.engine import run_game
+from brain_games.games.brain_even import BRAIN_EVEN_PROMPT, brain_even_game
 
 
 def main():
-    engine(BRAIN_EVEN_NAME)
+    run_game(brain_even_game, BRAIN_EVEN_PROMPT)
 
 
 if __name__ == "__main__":
